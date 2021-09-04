@@ -1,0 +1,15 @@
+Picker https://github.com/fzhlee/SwiftUI-Guide#-%E7%AC%AC21%E8%8A%82picker-
+Date https://blog.csdn.net/shenjie_xsj/article/details/79033861
+圆环图（付费）https://xiaozhuanlan.com/topic/7049325681
+复杂功能 https://theinfinitegame.tech/development/note-watchos-minimum-viable-complication/
+https://github.com/mackuba/SmogWatch
+date formatter：http://userguide.icu-project.org/formatparse/datetime
+Onmove: https://stackoverflow.com/questions/59742218/swiftui-reorder-coredata-objects-in-list
+coredata：https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started
+最大输入长度：http://codingdict.com/questions/70616
+图片拉伸：https://www.meiwen.com.cn/subject/wkmewctx.html
+字符串：https://stackoverflow.com/questions/39677330/how-does-string-substring-work-in-swift
+是否从表盘来：https://crunchybagel.com/how-to-detect-if-your-apple-watch-app-was-launched-from-a-complication-2/
+后台刷新：https://theinfinitegame.tech/development/note-watchos-minimum-viable-complication/
+图表：https://github.com/AppPear/ChartView
+

@@ -1,0 +1,33 @@
+Picker https://github.com/fzhlee/SwiftUI-Guide#-%E7%AC%AC21%E8%8A%82picker-
+Date https://blog.csdn.net/shenjie_xsj/article/details/79033861
+圆环图（付费）https://xiaozhuanlan.com/topic/7049325681
+复杂功能 https://theinfinitegame.tech/development/note-watchos-minimum-viable-complication/
+https://github.com/mackuba/SmogWatch
+date formatter：http://userguide.icu-project.org/formatparse/datetime
+Onmove: https://stackoverflow.com/questions/59742218/swiftui-reorder-coredata-objects-in-list
+coredata：https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started
+最大输入长度：http://codingdict.com/questions/70616
+图片拉伸：https://www.meiwen.com.cn/subject/wkmewctx.html
+字符串：https://stackoverflow.com/questions/39677330/how-does-string-substring-work-in-swift
+是否从表盘来：https://crunchybagel.com/how-to-detect-if-your-apple-watch-app-was-launched-from-a-complication-2/
+后台刷新：https://theinfinitegame.tech/development/note-watchos-minimum-viable-complication/
+图表：https://github.com/AppPear/ChartView
+更新user default：https://stackoverflow.com/questions/61642788/userdefault-not-updating-in-main-view-controller
+阴历计算：https://github.com/L1cardo/LunarCore
+阴历日历：https://github.com/jackiehu/LunarCalendar-SwiftUI
+绝对值：https://blog.csdn.net/weixin_34144848/article/details/91866619
+获取屏幕宽度：https://stackoverflow.com/questions/57696436/swiftui-get-screen-size-in-multiplateform
+字体子集化：https://www.fontke.com/tool/subfont/
+截取字符串：https://www.cnblogs.com/qq9070/p/10271009.html https://blog.csdn.net/qq_36487644/article/details/85252154
+缺少符号“：https://blog.csdn.net/sinat_41910150/article/details/106467294
+撒花特效：https://github.com/simibac/ConfettiSwiftUI
+错误添加其他平台os工程：https://blog.csdn.net/zWbKingGo/article/details/109503842
+
+
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+
+
+
+
