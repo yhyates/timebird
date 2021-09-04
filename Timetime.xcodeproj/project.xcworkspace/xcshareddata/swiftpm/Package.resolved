@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LunarCore",
+        "repositoryURL": "https://github.com/L1cardo/LunarCore",
+        "state": {
+          "branch": "master",
+          "revision": "66e43917046e22676a037642eed0783b1ccb304e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
